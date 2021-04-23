@@ -4,8 +4,7 @@
 * Dentro de la carpeta modules deben estar todas las clases y funciones que se vayan creando, todas deben estar comentadas con el formato sphinx
 * Eventualmente crear una carpeta que diga Utils pero no se para que hacerlo todavía
 ## ¡ IMPORTANTER !
-### Crear una carpeta docs/ donde se vaya documentando toda la información de todas las funciones, aquí se pueden poner links a documentación utilizada 
-### como referencia, se debe explicar sinteticamente los criterios utilizados para la aplicación de cada modelo según el formato
+### Crear una carpeta docs/ donde se vaya documentando toda la información de todas las funciones, aquí se pueden poner links a documentación utilizada como referencia, se debe explicar sinteticamente los criterios utilizados para la aplicación de cada modelo según el formato
 * Planteamiento del problema
 * Planteamiento esquemático de la resolución
 * Referencias y trabajos prevos
