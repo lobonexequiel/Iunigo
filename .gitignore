@@ -5,3 +5,4 @@ dat
 src/tmp
 dataset
 */tmp
+*/__pycache__/*
