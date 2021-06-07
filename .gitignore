@@ -3,4 +3,5 @@ dataset/
 .ipynb_checkpoints 
 dat 
 src/tmp
-
+dataset
+*/tmp
